@@ -22,4 +22,11 @@ venv/
 favicon.ico
 
 #tests
-test*
+tests*
+
+#vscode
+.vs
+
+
+#media
+products
