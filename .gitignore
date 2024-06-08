@@ -1,0 +1,25 @@
+# Django
+*.log
+*.pot
+*.pyc
+*/__pycache__/
+local_settings.py
+*.sqlite3
+db.sqlite3-journal
+media/
+static/
+*/migrations/*.py
+*/migrations/0*.py
+**/migrations/00*.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+.idea/
+favicon.ico
+
+#tests
+test*
